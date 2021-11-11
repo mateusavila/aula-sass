@@ -1,2 +1,2 @@
-import './styles/index.sass'
 import './style.css'
+import './styles/index.sass'
